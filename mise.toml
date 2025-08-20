@@ -1,0 +1,3 @@
+[tools]
+go = "1.24.5"
+"go:github.com/matryer/moq" = "0.5.3"
