@@ -28,7 +28,7 @@ index bdd8388..3a2c62f 100644
  "go:github.com/matryer/moq" = "0.5.3"
 ```
 
-And then try to run `go generate ./...`
+And then run `mise install` and `go generate ./...`
 
 You'll receive the following error:
 
